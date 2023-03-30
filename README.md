@@ -1,6 +1,8 @@
-# <span style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);-webkit-background-clip: text;color: transparent;">Meow Meow Unicorn Rabbit</span>
+<h1 align="center" style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);-webkit-background-clip: text;color: transparent;">Meow Meow Unicorn Rabbit</h1>
 
-![Rabbit Sound](./assets/RabbitSound.png)
+<p align="center">
+    <img src="./assets/RabbitSound.png" alt="Sublime's custom image"/>
+</p>
 
 <!--
 **emu-rabbit/emu-rabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
