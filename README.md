@@ -1,4 +1,4 @@
-### Meow Meow Unicorn
+# <span style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);-webkit-background-clip: text;color: transparent;">Meow Meow Unicorn Rabbit</span>
 
 ![Rabbit Sound](./assets/RabbitSound.png)
 
