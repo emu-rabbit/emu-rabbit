@@ -1,7 +1,11 @@
-<h1 align="center" style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);-webkit-background-clip: text;color: transparent;">Meow Meow Unicorn Rabbit</h1>
+<h1 align="center">Meow Meow Unicorn Rabbit</h1>
 
 <p align="center">
-    <img src="./assets/RabbitSound.png" alt="Sublime's custom image"/>
+    <img src="./assets/RabbitSound.png" alt="Rabbit sound with i18n system"/>
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vue,ts,nodejs,electron,js,html,css,java" alt="Rabbit sound with i18n system"/>
 </p>
 
 <!--
