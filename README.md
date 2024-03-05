@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vue,ts,nodejs,electron,js,html,css,java" alt="Rabbit sound with i18n system"/>
+    <img src="https://skillicons.dev/icons?i=vue,ts,nodejs,electron,js,html,css,java,firebase,flutter" alt="Rabbit sound with i18n system"/>
 </p>
 
 <!--
