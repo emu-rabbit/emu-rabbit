@@ -19,12 +19,13 @@
     }
     .wide { font-size: 72px; }
   </style>
-  <switch aria-label="Localized rabbit sound">
+  <switch allowReorder="yes" aria-label="Localized rabbit sound">
     <text class="sound cjk" systemLanguage="zh-TW, zh-Hant, zh-HK, zh-CN, zh-Hans, zh" x="250" y="306">喵</text>
     <text class="sound cjk wide" systemLanguage="ja" x="250" y="298">ニャー</text>
     <text class="sound cjk" systemLanguage="ko" x="250" y="304">야옹</text>
     <text class="sound" systemLanguage="fr" x="250" y="302">Miaou</text>
     <text class="sound" systemLanguage="es, de, it, pt" x="250" y="302">Miau</text>
+    <text class="sound" systemLanguage="en" x="250" y="302">Meow</text>
     <text class="sound" x="250" y="302">Meow</text>
   </switch>
 </svg>
