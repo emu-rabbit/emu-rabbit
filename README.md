@@ -1,7 +1,7 @@
 <h1 align="center">Meow Meow Unicorn Rabbit</h1>
 
 <p align="center">
-    <img src="./assets/RabbitSound.svg" alt="Rabbit sound localized to your browser language" width="1254" height="1254"/>
+    <img src="./assets/RabbitSound.svg" alt="Rabbit sound localized to your browser language" width="720" height="720"/>
 </p>
 
 <p align="center">
