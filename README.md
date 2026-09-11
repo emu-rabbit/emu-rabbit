@@ -1,7 +1,7 @@
 <h1 align="center">Meow Meow Unicorn Rabbit</h1>
 
 <p align="center">
-    <img src="./assets/RabbitSound.png" alt="Rabbit sound with i18n system"/>
+    <img src="./assets/RabbitSound.webp" alt="Rabbit sound with i18n system" width="1254" height="1254"/>
 </p>
 
 <p align="center">
