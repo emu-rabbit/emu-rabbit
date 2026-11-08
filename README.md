@@ -8,6 +8,10 @@
     <img src="https://skillicons.dev/icons?i=vue,ts,nodejs,electron,js,html,css,java,firebase,flutter,kotlin" alt="Rabbit sound with i18n system"/>
 </p>
 
+<p align="center">
+    <a href="https://emu-rabbit.github.io/">A little more about the rabbit, beyond the code.</a>
+</p>
+
 <!--
 **emu-rabbit/emu-rabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
